@@ -5,6 +5,12 @@ This repository provides a Gmail-stylized email signature, designed to be clean 
 - Contact information (phone number, website, LinkedIn, GitHub)
 - Icons for phone, globe (website), LinkedIn, and GitHub
 
+## Preview
+
+Here’s a preview of how the signature will look:
+
+![Email Signature Preview](https://github.com/Nolan-Olhausen/email-signature/blob/main/signaturePreview.png)
+
 ## How to Use
 
 ### 1. Download the HTML File
