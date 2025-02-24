@@ -9,7 +9,7 @@ This repository provides a Gmail-stylized email signature, designed to be clean 
 
 Here’s a preview of how the signature will look:
 
-![Email Signature Preview](https://github.com/Nolan-Olhausen/email-signature/blob/main/signaturePreview.png)
+<img src="https://github.com/Nolan-Olhausen/email-signature/blob/main/signaturePreview.png" alt="Email Signature Preview" height="250"> <img src="https://github.com/Nolan-Olhausen/email-signature/blob/main/signaturePreviewDark.jpeg" alt="Email Signature Preview Dark" height="250">
 
 ## How to Use
 
